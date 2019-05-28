@@ -1,0 +1,7 @@
+C:\Users\БайназарС.CORP\source\repos\ProcessLesson\bin\Debug\ProcessLesson.exe.config
+C:\Users\БайназарС.CORP\source\repos\ProcessLesson\bin\Debug\ProcessLesson.exe
+C:\Users\БайназарС.CORP\source\repos\ProcessLesson\bin\Debug\ProcessLesson.pdb
+C:\Users\БайназарС.CORP\source\repos\ProcessLesson\obj\Debug\ProcessLesson.csprojAssemblyReference.cache
+C:\Users\БайназарС.CORP\source\repos\ProcessLesson\obj\Debug\ProcessLesson.csproj.CoreCompileInputs.cache
+C:\Users\БайназарС.CORP\source\repos\ProcessLesson\obj\Debug\ProcessLesson.exe
+C:\Users\БайназарС.CORP\source\repos\ProcessLesson\obj\Debug\ProcessLesson.pdb
